@@ -1,4 +1,4 @@
-module github.com/ovh/go-ovh
+module github.com/rienafairefr/go-ovh
 
 go 1.12
 
